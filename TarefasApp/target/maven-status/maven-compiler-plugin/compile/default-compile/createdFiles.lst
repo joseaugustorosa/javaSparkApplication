@@ -1,0 +1,13 @@
+TarefasApp\controller\TarefaController.class
+TarefasApp\App.class
+TarefasApp\controller\FuncionarioController.class
+TarefasApp\model\domain\Usuario.class
+TarefasApp\model\service\TarefaService.class
+TarefasApp\model\domain\Gestor.class
+TarefasApp\model\service\FuncionarioService.class
+TarefasApp\model\domain\Tarefa.class
+TarefasApp\controller\UsuarioController.class
+TarefasApp\model\domain\Funcionario.class
+TarefasApp\model\service\GestorService.class
+TarefasApp\controller\GestorController.class
+TarefasApp\controller\ProdutosIBGEController.class
